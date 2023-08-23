@@ -1,0 +1,14 @@
+{
+    "mysqlConfig": {
+        "host":"",
+        "port":"",
+        "dbName":"",
+        "dbUserName":"",
+        "dbPassword":""
+    },
+    "restServer": {
+        "addr": ""
+    },
+    "logLevel": "debug",
+    "logEnvironment": "local"
+}
